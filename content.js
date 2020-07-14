@@ -10,9 +10,15 @@ try {
 				html += "<style>#graphics-paywall-overlay{position: static!important;}</style>";
 				html += "<style>html {overflow:initial!important;}";
 				
-				document.open();
-				document.write(html);
-				document.close();
+				
+				
+document.addEventListener('DOMSubtreeModified', function(e) {
+    if(document.getElementsByClassName("hub-main").length > 0){
+        document.getElementsByClassName("hub-main")
+		document.getElementsByClassName("hub-main").style.display = "none";
+    }
+});
+  
 				
 //document.body.innerHTML = html;
 

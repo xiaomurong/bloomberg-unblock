@@ -11,7 +11,8 @@
 				"*://*.bloomberg.com/*"
 			],
 			"js": ["content.js"],
-			"run_at": "document_start"
+			"css":["fix.css"],
+			"run_at": "document_end"
 		}
 	]
 }
