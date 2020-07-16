@@ -1,18 +1,15 @@
-  
 {
-	"manifest_version": 2,
-	"name": "Bloomberg Unblock",
-	"description": "Unlimited article access to Bloomberg.com",
-	"icons": { "128": "icon.png" },
-	"version": "1.0",
-	"content_scripts": [
-		{
-			"matches": [
-				"*://*.bloomberg.com/*"
-			],
-			"js": ["content.js"],
-			"css":["fix.css"],
-			"run_at": "document_end"
-		}
-	]
+  "manifest_version": 2,
+  "name": "Bloomberg Unblock",
+  "description": "Unlimited article access to Bloomberg.com",
+  "icons": { "128": "icon.png" },
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["*://*.bloomberg.com/*"],
+      "js": ["content.js"],
+      "css": ["fix.css"],
+      "run_at": "document_end"
+    }
+  ]
 }
