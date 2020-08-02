@@ -1,12 +1,11 @@
+html {
+	overflow: scroll !important;
+}
 
-				html {
-					overflow:scroll!important
-				}
-				.hub-main{
-					display: none;
-				}
-				#graphics-paywall-overlay{
-					position: static!important;
-				}
-				
-				
+body {
+	overflow: scroll !important;
+}
+
+#graphics-paywall-overlay {
+	display: none !important;
+}
