@@ -8,26 +8,25 @@ Unlimited article access to Bloomberg.com. Eliminate privacy troubles.
 
 - PC
 
-1.Visit [Chrome Web Store](https://chrome.google.com/webstore/detail/bloomberg-unblock/mbgcckpnfobpglflekdmmgikkooikmkm)
+  1.Visit [Chrome Web Store](https://chrome.google.com/webstore/detail/bloomberg-unblock/mbgcckpnfobpglflekdmmgikkooikmkm)
 
-2.download the extension to your Google Chrome/brave browser
+  2.download the extension to your Google Chrome/brave browser
 
 - Android
 
-1.Visit Google Play and install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
+  1.Visit Google Play and install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 
-2.Visit Chrome Web Store, install download the extension to your Kiwi Browser
+  2.Visit Chrome Web Store, install download the extension to your Kiwi Browser
 
 - iOS 13+ (Shortcuts)
 
 1. Visit App store install [Shortcuts](https://apps.apple.com/hk/app/shortcuts/id915249334)
 
-2. Install [this Shortcuts script](https://www.icloud.com/shortcuts/78aac11469cc4da4b1107ac6866f3335)
+2. Install [this Shortcuts script](https://www.icloud.com/shortcuts/e7835c093b8c4661b8392579d8e5dac1)
 
-3. use Safari to bloomberg.com 
+3. use Safari to bloomberg.com
 
 4. click the Share button at the bottom, choose run shortcut, then click "Blooberg Unblock"
-
 
 ## License
 
@@ -38,4 +37,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 - GitHub Pages Theme by [GitHub Guides](https://guides.github.com/features/pages/)
 - GitHub Pages Theme source code by [orderedlist](https://github.com/orderedlist/minimal)
 - [Hacking around with JavaScript and Shortcuts in iOS 12](https://medium.com/@chrishutchinson/hacking-around-with-javascript-and-shortcuts-in-ios-12-95f8d7190777) by Chris Hutchinson
-
