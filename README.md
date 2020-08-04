@@ -11,6 +11,8 @@ Unlimited article access to Bloomberg.com. Eliminate privacy troubles.
   1.Visit [Chrome Web Store](https://chrome.google.com/webstore/detail/bloomberg-unblock/mbgcckpnfobpglflekdmmgikkooikmkm)
 
   2.download the extension to your Google Chrome/brave browser
+  
+  * For Opera , please install https://addons.opera.com/en/extensions/details/install-chrome-extensions/ allows you to  install Chrome extensions
 
 - Android
 
