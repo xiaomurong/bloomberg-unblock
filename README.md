@@ -1,4 +1,4 @@
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/samchu11/bloomberg-unblock.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/samchu11/bloomberg-unblock/context:javascript)
 
 ## Bloomberg Unblock
 
@@ -11,8 +11,8 @@ Unlimited article access to Bloomberg.com. Eliminate privacy troubles.
   1.Visit [Chrome Web Store](https://chrome.google.com/webstore/detail/bloomberg-unblock/mbgcckpnfobpglflekdmmgikkooikmkm)
 
   2.download the extension to your Google Chrome/brave browser
-  
-  * For Opera , please install https://addons.opera.com/en/extensions/details/install-chrome-extensions/ allows you to  install Chrome extensions
+
+  - For Opera , please install https://addons.opera.com/en/extensions/details/install-chrome-extensions/ allows you to install Chrome extensions
 
 - Android
 
