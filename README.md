@@ -20,11 +20,11 @@ Unlimited article access to Bloomberg.com. Eliminate privacy troubles.
 
   2.Visit Chrome Web Store, install download the extension to your Kiwi Browser
 
-- iOS 13+ (Shortcuts)
+- iOS 14+ (Shortcuts)
 
 1. Visit App store install [Shortcuts](https://apps.apple.com/hk/app/shortcuts/id915249334)
 
-2. Install [this Shortcuts script](https://www.icloud.com/shortcuts/e7835c093b8c4661b8392579d8e5dac1)
+2. Install [this Shortcuts script](https://www.icloud.com/shortcuts/8d826ccea219499bbe0a9b0ec348e89b)
 
 3. use Safari to bloomberg.com
 
