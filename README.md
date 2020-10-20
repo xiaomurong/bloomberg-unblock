@@ -1,6 +1,6 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/samchu11/bloomberg-unblock.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/samchu11/bloomberg-unblock/context:javascript)
 
-## Bloomberg Unblock
+## Bloomberg Unblock v1.2
 
 Unlimited article access to Bloomberg.com. Eliminate privacy troubles.
 
