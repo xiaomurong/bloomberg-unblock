@@ -9,7 +9,7 @@
     "128": "images/favicon128.png"
   },
   "incognito": "split",
-  "version": "1.2",
+  "version": "1.21",
   "content_scripts": [{
     "matches": ["*://*.bloomberg.com/*"],
     "css": ["fix.css"],
